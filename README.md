@@ -1,6 +1,6 @@
+## Student: Abdul Nasir Suleman  
 Course Code: EEE227  
 Programme: HND Electrical Engineering Level 200  
-Student: Abdul Nasir Suleman  
 
 ## Project Overview
 This project is a console-based Digital Attendance System
